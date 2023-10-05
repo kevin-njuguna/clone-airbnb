@@ -1,0 +1,28 @@
+
+ const JokesData = [
+    {
+        setup: "I got my daughter a fridge for a birthday",
+        punchline: "hi"
+    },
+        {
+        setup:"How did the hacker escape the police?",
+        punchline: "He just ransomware!"
+    },
+        {
+        setup: "Why don't pirates travel the mountain road?",
+        punchline: "Scurvy"
+    },
+       {
+        setup: "Why do bees stay in the hive in winter?",
+        punchline: "Swarm"
+    },
+    {
+        setup: "What's the best thing about Switzerland?",
+        punchline: "I don't know, but the flag is a big plus!"
+    }
+        
+        
+    ]
+
+    export default JokesData
+    
